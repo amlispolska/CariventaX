@@ -1,9 +1,10 @@
-page 50100 "CVX Setup"
+page 50100 "CVX CariventaX Setup"
 {
     ApplicationArea = All;
-    Caption = 'CVX Setup', Comment = 'de-DE=CVX Einrichtung';
+    Caption = 'CariventaX Setup', Comment = 'de-DE=CariventaX Einrichtung';
     PageType = Card;
-    SourceTable = "CVX Setup";
+    SourceTable = "CVX CariventaX Setup";
+    UsageCategory = Administration;
 
     layout
     {
@@ -23,6 +24,7 @@ page 50100 "CVX Setup"
                 }
                 field("Used Cars Management"; Rec."Used Cars Management")
                 {
+                    Visible = Rec."System Type" <> Rec."System Type"::Rental;
                     ToolTip = 'Specifies the value of the Used Cars Management field.', Comment = 'de-DE=Gibt den Wert des Feldes Gebrauchtwagenverwaltung an';
                 }
             }

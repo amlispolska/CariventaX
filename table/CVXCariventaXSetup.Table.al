@@ -1,6 +1,6 @@
-table 50100 "CVX Setup"
+table 50100 "CVX CariventaX Setup"
 {
-    Caption = 'CVX Setup', Comment = 'de-DE=CVX Einrichtung';
+    Caption = 'CariventaX Setup', Comment = 'de-DE=CariventaX Einrichtung';
     DataClassification = OrganizationIdentifiableInformation;
 
     fields
