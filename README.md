@@ -26,7 +26,7 @@ You may **NOT**:
 Any redistribution or commercial offering to third parties
 requires explicit written permission from the author.
 
-See the `LICENSE` file for the full license terms.
+See the [`LICENSE`](LICENSE.md) file for the full license terms.
 
 ## Disclaimer
 
