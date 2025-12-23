@@ -1,6 +1,6 @@
-table 50100 "BCar Setup"
+table 50100 "CVX Setup"
 {
-    Caption = 'BCar Setup', Comment = 'de-DE=BCar Einrichtung';
+    Caption = 'CVX Setup', Comment = 'de-DE=CVX Einrichtung';
     DataClassification = OrganizationIdentifiableInformation;
 
     fields
@@ -9,7 +9,7 @@ table 50100 "BCar Setup"
         {
             Caption = 'PK', Comment = 'de-DE=PK';
         }
-        field(10; "System Type"; Enum "Bcar System Type")
+        field(10; "System Type"; Enum "CVX System Type")
         {
             Caption = 'System Type', Comment = 'de-DE=Systemtyp';
         }

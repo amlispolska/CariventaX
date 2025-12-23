@@ -1,4 +1,4 @@
-enum 50100 "BCar System Type"
+enum 50100 "CVX System Type"
 {
     Extensible = true;
 

@@ -1,4 +1,4 @@
-table 50101 "BCar Automotive Producer"
+table 50101 "CVX Automotive Producer"
 {
     Caption = 'Automotive Producer', Comment = 'de-DE=Automobilhersteller';
     DataClassification = CustomerContent;

@@ -1,9 +1,9 @@
-page 50100 "BCar Setup"
+page 50100 "CVX Setup"
 {
     ApplicationArea = All;
-    Caption = 'BCar Setup', Comment = 'de-DE=BCar Einrichtung';
+    Caption = 'CVX Setup', Comment = 'de-DE=CVX Einrichtung';
     PageType = Card;
-    SourceTable = "BCar Setup";
+    SourceTable = "CVX Setup";
 
     layout
     {
