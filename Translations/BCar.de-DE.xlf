@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="BCar">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1331462027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automotive Producer</source>
+          <target state="translated">Automobilhersteller</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Automobilhersteller</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Automotive Producer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331462027 - Field 2981864456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Name</source>
+          <target state="translated">Vollständiger Name</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Vollständiger Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Automotive Producer - Field Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1331462027 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Automotive Producer - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1735289519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCar Setup</source>
+          <target state="translated">BCar Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=BCar Einrichtung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1735289519 - Field 970416965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PK</source>
+          <target state="translated">PK</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=PK</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Setup - Field PK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1735289519 - Field 2187938695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service</source>
+          <target state="translated">Service</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Service</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Setup - Field Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1735289519 - Field 981873783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Type</source>
+          <target state="translated">Systemtyp</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Systemtyp</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Setup - Field System Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1735289519 - Field 1936480161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used Cars Management</source>
+          <target state="translated">Gebrauchtwagenverwaltung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gebrauchtwagenverwaltung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCar Setup - Field Used Cars Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1735289519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCar Setup</source>
+          <target state="translated">BCar Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=BCar Einrichtung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCar Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1735289519 - Control 872480034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Allgemein</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCar Setup - Control general - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1735289519 - Control 2187938695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Service field.</source>
+          <target state="translated">Gibt den Wert des Service-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Service-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCar Setup - Control Service - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1735289519 - Control 981873783 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the System Type field.</source>
+          <target state="translated">Gibt den Wert des Systemtyp-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Systemtyp-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCar Setup - Control System Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1735289519 - Control 1936480161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Used Cars Management field.</source>
+          <target state="translated">Gibt den Wert des Feldes Gebrauchtwagenverwaltung an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Feldes Gebrauchtwagenverwaltung an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCar Setup - Control Used Cars Management - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 861543753 - EnumValue 3852887107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dealership</source>
+          <target state="translated">Autohaus</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Autohaus</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCar System Type - EnumValue Dealership - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 861543753 - EnumValue 2046330438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dealership + Rental</source>
+          <target state="translated">Autohaus + Vermietung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Autohaus + Vermietung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCar System Type - EnumValue Dealership + Rental - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 861543753 - EnumValue 2513429772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental</source>
+          <target state="translated">Vermietung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Vermietung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCar System Type - EnumValue Rental - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,35 @@
+{
+    "editor.mouseWheelZoom": true,
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNamePrefix": "BCar ",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "al.codeAnalyzers": [
+        "${UICop}",
+        "${CodeCop}"
+        // ,"${PerTenantExtensionCop}"
+    ],
+    "al.enableCodeAnalysis": true,
+    "editor.snippetSuggestions": "bottom",
+    "git.pruneOnFetch": true,
+    "alOutline.completionProviders": [
+        "VariableNamesWithType",
+        "VariableDataTypes"
+    ],
+    "alVarHelper.ignoreALPrefix": "EWGZ",
+    "al.assemblyProbingPaths": [
+        "C:/Windows/assembly",
+            "./.netpackages"
+    ],
+    "alOutline.codeActionsOnSave": [
+        "SortVariables","SortPermissions","SortPermissionSetList","SortProperties"
+    ],
+    "alOutline.codeCleanupActions": [
+        "AddApplicationAreas", "AddEnumValuesCaptions","AddMissingParentheses","AddObjectCaptions","AddTableFieldCaptions","AddToolTips","CollapseEmptyBrackets"
+        ,"ConvertObjectIdsToNames","FixIdentifiersCase","FixKeywordsCase","MakeFlowFieldsReadOnly","RemoveBeginEnd","RemoveEmptyTriggers"
+    ],
+     "al.compilationOptions": {
+        "generateReportLayout": true
+    }
+}
