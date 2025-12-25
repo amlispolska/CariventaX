@@ -21,65 +21,89 @@
           <note from="Developer" annotates="general" priority="2">de-DE=Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Producer - Field Name - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1905901126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>CVX Setup</source>
-          <target state="translated">CVX Einrichtung</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=CVX Einrichtung</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Setup - Property Caption</note>
+        <trans-unit id="Table 2306511333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CariventaX Setup</source>
+          <target state="translated">CariventaX Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=CariventaX Einrichtung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1905901126 - Field 970416965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2306511333 - Field 3872657290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximal Lease Period</source>
+          <target state="translated">Maximale Mietdauer</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Maximale Mietdauer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Field Maximal Lease Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2306511333 - Field 970416965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>PK</source>
           <target state="translated">PK</target>
           <note from="Developer" annotates="general" priority="2">de-DE=PK</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Setup - Field PK - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Field PK - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1905901126 - Field 2187938695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2306511333 - Field 2187938695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Service</source>
           <target state="translated">Service</target>
           <note from="Developer" annotates="general" priority="2">de-DE=Service</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Setup - Field Service - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Field Service - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1905901126 - Field 981873783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2306511333 - Field 981873783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>System Type</source>
           <target state="translated">Systemtyp</target>
           <note from="Developer" annotates="general" priority="2">de-DE=Systemtyp</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Setup - Field System Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Field System Type - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1905901126 - Field 1936480161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 2306511333 - Field 1936480161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Used Cars Management</source>
           <target state="translated">Gebrauchtwagenverwaltung</target>
           <note from="Developer" annotates="general" priority="2">de-DE=Gebrauchtwagenverwaltung</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Setup - Field Used Cars Management - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX CariventaX Setup - Field Used Cars Management - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1905901126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>CVX Setup</source>
-          <target state="translated">CVX Einrichtung</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=CVX Einrichtung</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CVX Setup - Property Caption</note>
+        <trans-unit id="Page 2306511333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CariventaX Setup</source>
+          <target state="translated">CariventaX Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=CariventaX Einrichtung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1905901126 - Control 872480034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>General</source>
-          <target state="translated">Allgemein</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=Allgemein</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CVX Setup - Control general - Property Caption</note>
+        <trans-unit id="Page 2306511333 - Control 3852887107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dealership</source>
+          <target state="translated">Autohaus</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Autohaus</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Dealership - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1905901126 - Control 2187938695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Service field.</source>
-          <target state="translated">Gibt den Wert des Service-Feldes an</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Service-Feldes an</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CVX Setup - Control Service - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1905901126 - Control 981873783 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the System Type field.</source>
-          <target state="translated">Gibt den Wert des Systemtyp-Feldes an</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Systemtyp-Feldes an</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CVX Setup - Control System Type - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1905901126 - Control 1936480161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2306511333 - Control 1936480161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Used Cars Management field.</source>
           <target state="translated">Gibt den Wert des Feldes Gebrauchtwagenverwaltung an</target>
           <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Feldes Gebrauchtwagenverwaltung an</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CVX Setup - Control Used Cars Management - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Used Cars Management - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2306511333 - Control 872480034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Allgemein</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Allgemein</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control general - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2306511333 - Control 2187938695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Service field.</source>
+          <target state="translated">Gibt den Wert des Service-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Service-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Service - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2306511333 - Control 981873783 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the System Type field.</source>
+          <target state="translated">Gibt den Wert des Systemtyp-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Systemtyp-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control System Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2306511333 - Control 2513429772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental</source>
+          <target state="translated">Vermietung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Vermietung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Rental - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2306511333 - Control 3872657290 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Maximal Lease Period field.</source>
+          <target state="translated">Gibt den Wert des Feldes Maximale Mietdauer an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Feldes Maximale Mietdauer an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Maximal Lease Period - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Enum 76998876 - EnumValue 3852887107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Dealership</source>

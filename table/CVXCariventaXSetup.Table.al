@@ -1,7 +1,7 @@
 table 50100 "CVX CariventaX Setup"
 {
     Caption = 'CariventaX Setup', Comment = 'de-DE=CariventaX Einrichtung';
-    DataClassification = OrganizationIdentifiableInformation;
+    DataClassification = CustomerContent;
 
     fields
     {
@@ -21,6 +21,12 @@ table 50100 "CVX CariventaX Setup"
         {
             Caption = 'Used Cars Management', Comment = 'de-DE=Gebrauchtwagenverwaltung';
         }
+        field(13; "Maximal Lease Period"; DateFormula)
+        {
+            Caption = 'Maximal Lease Period', Comment = 'de-DE=Maximale Mietdauer';
+            DataClassification = CustomerContent;
+        }
+
     }
     keys
     {
