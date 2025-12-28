@@ -13,20 +13,6 @@ table 50100 "CVX CariventaX Setup"
         {
             Caption = 'System Type', Comment = 'de-DE=Systemtyp';
         }
-        field(11; Service; Boolean)
-        {
-            Caption = 'Service', Comment = 'de-DE=Service';
-        }
-        field(12; "Used Cars Management"; Boolean)
-        {
-            Caption = 'Used Cars Management', Comment = 'de-DE=Gebrauchtwagenverwaltung';
-        }
-        field(13; "Maximal Lease Period"; DateFormula)
-        {
-            Caption = 'Maximal Lease Period', Comment = 'de-DE=Maximale Mietdauer';
-            DataClassification = CustomerContent;
-        }
-
     }
     keys
     {
