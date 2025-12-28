@@ -1,0 +1,40 @@
+{
+  "id": "e2a8d2d1-3b6f-4c9f-9d4b-1f5a9b2c8a11",
+  "name": "CariventaX.Sales",
+  "publisher": "Tomasz Baraniuk",
+  "version": "0.0.1.0",
+  "brief": "Sales module for CariventaX",
+  "description": "Sales-specific objects (orders, customers, sales pages)",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "55ba3068-dd23-4dd1-bf6e-2652deee571a",
+      "name": "CariventaX.Base",
+      "publisher": "Tomasz Baraniuk",
+      "version": "0.0.1.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

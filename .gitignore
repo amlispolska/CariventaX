@@ -1,7 +1,16 @@
-Translations/*g.xlf
-.vscode/launch.json
-.vscode/rad.json
-.vscode/.alcache/*
-*.app
-.snapshots*
-.alpackages/*
+# Ignore generated translation files in any Translations folder
+**/Translations/*g.xlf
+
+# VS Code: ignore launch and rad configs anywhere, and the per-folder .alcache
+**/.vscode/launch.json
+**/.vscode/rad.json
+**/.vscode/.alcache/
+
+# Ignore compiled app packages anywhere
+**/*.app
+
+# Ignore snapshots anywhere
+**/.snapshots*
+
+# Ignore AL package caches inside any module
+**/.alpackages/

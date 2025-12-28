@@ -3,12 +3,11 @@
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
-    "CRS.ObjectNamePrefix": "CVX ",
+    "CRS.ObjectNamePrefix": "CVS ",
     "CRS.OnSaveAlFileAction": "Rename",
     "al.codeAnalyzers": [
         "${UICop}",
         "${CodeCop}"
-        // ,"${PerTenantExtensionCop}"
     ],
     "al.enableCodeAnalysis": true,
     "editor.snippetSuggestions": "bottom",
@@ -17,17 +16,17 @@
         "VariableNamesWithType",
         "VariableDataTypes"
     ],
-    "alVarHelper.ignoreALPrefix": "CVX",
+    "alVarHelper.ignoreALPrefix": "CVS",
     "al.assemblyProbingPaths": [
         "C:/Windows/assembly",
-            "./.netpackages"
+        "./.netpackages"
     ],
     "alOutline.codeActionsOnSave": [
         "SortVariables","SortPermissions","SortPermissionSetList","SortProperties"
     ],
     "alOutline.codeCleanupActions": [
-        "AddApplicationAreas", "AddEnumValuesCaptions","AddMissingParentheses","AddObjectCaptions","AddTableFieldCaptions","AddToolTips","CollapseEmptyBrackets"
-        ,"ConvertObjectIdsToNames","FixIdentifiersCase","FixKeywordsCase","MakeFlowFieldsReadOnly","RemoveBeginEnd","RemoveEmptyTriggers"
+        "AddApplicationAreas", "AddEnumValuesCaptions","AddMissingParentheses","AddObjectCaptions","AddTableFieldCaptions","AddToolTips","CollapseEmptyBrackets",
+        "ConvertObjectIdsToNames","FixIdentifiersCase","FixKeywordsCase","MakeFlowFieldsReadOnly","RemoveBeginEnd","RemoveEmptyTriggers"
     ],
      "al.compilationOptions": {
         "generateReportLayout": true

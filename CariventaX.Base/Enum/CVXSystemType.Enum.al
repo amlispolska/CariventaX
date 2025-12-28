@@ -1,4 +1,4 @@
-enum 50100 "CVX System Type"
+enum 50101 "CVX System Type"
 {
     Extensible = true;
 
