@@ -21,6 +21,78 @@
           <note from="Developer" annotates="general" priority="2">de-DE=Name</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Producer - Field Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3584274834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automotive Type</source>
+          <target state="translated">Fahrzeugtyp</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Fahrzeugtyp</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target state="translated">Aktiv</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Aktiv</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 3558861669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Checkup Required</source>
+          <target state="translated">Zusätzliche Überprüfung erforderlich</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Zusätzliche Überprüfung erforderlich</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Additional Checkup Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 1213575392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Fee Per Day</source>
+          <target state="translated">Zusätzliche Gebühr pro Tag</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Zusätzliche Gebühr pro Tag</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Additional Fee Per Day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 4149755298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Fee Per KM</source>
+          <target state="translated">Zusätzliche Gebühr pro KM</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Zusätzliche Gebühr pro KM</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Additional Fee Per KM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 4115261493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checkup Interval Days</source>
+          <target state="translated">Überprüfungsintervall in Tagen</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Überprüfungsintervall in Tagen</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Checkup Interval Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 550554614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checkup Interval KM</source>
+          <target state="translated">Überprüfungsintervall in KM</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Überprüfungsintervall in KM</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Checkup Interval KM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Code</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Beschreibung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 4106039022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver License Class Required</source>
+          <target state="translated">Erforderliche Führerscheinklasse</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Erforderliche Führerscheinklasse</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Driver License Class Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 3417168091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimal Age Required</source>
+          <target state="translated">Erforderliches Mindestalter</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Erforderliches Mindestalter</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Minimal Age Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3584274834 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="translated">Name</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CVX Automotive Type - Field Name - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2306511333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>CariventaX Setup</source>
           <target state="translated">CariventaX Einrichtung</target>
@@ -104,6 +176,354 @@
           <target state="translated">Gibt den Wert des Feldes Maximale Mietdauer an</target>
           <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Feldes Maximale Mietdauer an</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page CVX CariventaX Setup - Control Maximal Lease Period - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2945211600 - Control 1319803040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Automotive Details</source>
+          <target state="translated">Automobildetails</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Automobildetails</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Card - Control CVX Automotive Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2945211600 - Control 3584274834 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Automotive Type field.</source>
+          <target state="translated">Gibt den Wert des Fahrzeugtyp-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Fahrzeugtyp-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Card - Control CVX Automotive Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2945211600 - Control 3890008503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the value of the Producer field.</source>
+          <target state="translated">Gibt den Wert des Hersteller-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Hersteller-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Card - Control CVX Producer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 1319803040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Automotive Details</source>
+          <target state="translated">Automobildetails</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Automobildetails</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Automotive Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 3814683208 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Amount of Past Owners field.</source>
+          <target state="translated">Gibt den Wert des Anzahl der Vorbesitzer-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Anzahl der Vorbesitzer-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Amount of Past Owners - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 2465242880 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Build in Country field.</source>
+          <target state="translated">Gibt den Wert des Hergestellt in Land-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Hergestellt in Land-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Build in Country - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 1439703360 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Build Year field.</source>
+          <target state="translated">Gibt den Wert des Baujahres-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Baujahres-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Build Year - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 3717830687 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Colour field.</source>
+          <target state="translated">Gibt den Wert des Farbe-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Farbe-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Colour - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 710728471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Current Kilometers field.</source>
+          <target state="translated">Gibt den Wert des Aktueller Kilometerstand-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Aktueller Kilometerstand-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Current Kilometers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 2121191691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Current Location field.</source>
+          <target state="translated">Gibt den Wert des Aktuelle Position-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Aktuelle Position-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Current Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 761687137 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Fuel Type field.</source>
+          <target state="translated">Gibt den Wert des Kraftstoffart-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Kraftstoffart-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Fuel Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 478111455 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the License Plate No. field.</source>
+          <target state="translated">Gibt den Wert des Kennzeichen-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Kennzeichen-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX License Plate No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 2096369850 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Motor field.</source>
+          <target state="translated">Gibt den Wert des Motor-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Motor-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Motor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 2495768265 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the Present Owner field.</source>
+          <target state="translated">Gibt den Wert des Aktueller Besitzer-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des Aktueller Besitzer-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX Present Owner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3047750533 - Control 1986236776 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4195014322">
+          <source>Specifies the value of the VIN field.</source>
+          <target state="translated">Gibt den Wert des VIN-Feldes an</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Gibt den Wert des VIN-Feldes an</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CVX Item Variant Card - Control CVX VIN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3040187940 - Field 3584274834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Automotive Type</source>
+          <target state="translated">Fahrzeugtyp</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Fahrzeugtyp</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item - Field CVX Automotive Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3040187940 - Field 3890008503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Producer</source>
+          <target state="translated">Hersteller</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Hersteller</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item - Field CVX Producer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 3814683208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Amount of Past Owners</source>
+          <target state="translated">Anzahl der Vorbesitzer</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Anzahl der Vorbesitzer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Amount of Past Owners - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 2465242880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Build in Country</source>
+          <target state="translated">Hergestellt in Land</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Hergestellt in Land</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Build in Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 1439703360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Build Year</source>
+          <target state="translated">Baujahr</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Baujahr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Build Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 3717830687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Colour</source>
+          <target state="translated">Farbe</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Farbe</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Colour - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 710728471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Current Kilometers</source>
+          <target state="translated">Aktueller Kilometerstand</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Aktueller Kilometerstand</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Current Kilometers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 2121191691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Current Location</source>
+          <target state="translated">Aktuelle Position</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Aktuelle Position</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Current Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 761687137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Fuel Type</source>
+          <target state="translated">Kraftstoffart</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Kraftstoffart</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Fuel Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 1475485264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Last Oil Change km ago</source>
+          <target state="translated">Letzter Ölwechsel km her</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Letzter Ölwechsel km her</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Last Oil Change km ago - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 665393567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Last Service km ago</source>
+          <target state="translated">Letzter Service km her</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Letzter Service km her</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Last Service km ago - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 478111455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>License Plate No.</source>
+          <target state="translated">Kennzeichen</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Kennzeichen</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX License Plate No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 2096369850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Motor</source>
+          <target state="translated">Motor</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Motor</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Motor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 410070803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Needs Service</source>
+          <target state="translated">Benötigt Service</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Benötigt Service</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Needs Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 2495768265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>Present Owner</source>
+          <target state="translated">Aktueller Besitzer</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Aktueller Besitzer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX Present Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 882395033 - Field 1986236776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 397414134">
+          <source>VIN</source>
+          <target state="translated">VIN</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=VIN</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CVX Item Variant - Field CVX VIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 3939861283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 909428124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue A1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 1547124741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue A2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 2936336400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AM</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue AM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 1557983838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 2415131359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B96</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue B96 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 573812905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BE</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue BE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 920287221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue C - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 373159582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue C1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 4039254889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C1E</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue C1E - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 504129130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CE</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue CE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 2026771432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 4188738455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D1</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue D1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 3831265188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>D1E</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue D1E - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 1899891083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DE</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue DE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 2833377072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>L</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue L - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2709215738 - EnumValue 3639982712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Driver License Class - EnumValue T - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 1030735356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compressed Natural Gas (CNG)</source>
+          <target state="translated">Erdgas (CNG)</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Erdgas (CNG)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Compressed Natural Gas (CNG) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 1820646502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diesel</source>
+          <target state="translated">Diesel</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Diesel</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Diesel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 1482762643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-fuels</source>
+          <target state="translated">E-Fuels</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=E-Fuels</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue E-fuels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 1642904495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electricity (Electric)</source>
+          <target state="translated">Strom (Elektro)</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Strom (Elektro)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Electricity (Electric) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 2888595157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hybrid (Petrol-Electric)</source>
+          <target state="translated">Hybrid (Benzin-Elektro)</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Hybrid (Benzin-Elektro)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Hybrid (Petrol-Electric) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 2046683331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hydrogen (Fuel Cell)</source>
+          <target state="translated">Wasserstoff (Brennstoffzelle)</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Wasserstoff (Brennstoffzelle)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Hydrogen (Fuel Cell) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 2050262204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liquefied Petroleum Gas (LPG)</source>
+          <target state="translated">Autogas (LPG)</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Autogas (LPG)</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Liquefied Petroleum Gas (LPG) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 1787637036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petrol</source>
+          <target state="translated">Benzin</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Benzin</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Petrol - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3433327864 - EnumValue 723659364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plug-in Hybrid</source>
+          <target state="translated">Plug-in-Hybrid</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Plug-in-Hybrid</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum CVX Fuel Types - EnumValue Plug-in Hybrid - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 76998876 - EnumValue 3852887107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Dealership</source>
