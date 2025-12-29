@@ -1,23 +1,30 @@
 {
-  "id": "55ba3068-dd23-4dd1-bf6e-2652deee571a",
-  "name": "CariventaX",
+  "id": "b3c4f7a9-6d20-4e7e-9a4a-2c6d3e4b7f22",
+  "name": "CariventaX.Rent",
   "publisher": "Tomasz Baraniuk",
   "version": "0.0.1.0",
-  "brief": "",
-  "description": "",
+  "brief": "Rental module for CariventaX",
+  "description": "Rental-specific objects (contracts, reservations)",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "appId": "55ba3068-dd23-4dd1-bf6e-2652deee571a",
+      "name": "CariventaX.Base",
+      "publisher": "Tomasz Baraniuk",
+      "version": "0.0.1.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "27.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50250,
+      "to": 50299
     }
   ],
   "resourceExposurePolicy": {

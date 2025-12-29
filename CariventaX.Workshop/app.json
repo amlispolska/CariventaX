@@ -1,0 +1,40 @@
+{
+  "id": "d9f6a4b2-4f81-4c5a-8b2e-3a1c5d6e8c33",
+  "name": "CariventaX.Workshop",
+  "publisher": "Tomasz Baraniuk",
+  "version": "0.0.1.0",
+  "brief": "Workshop module for CariventaX",
+  "description": "Workshop-specific objects (work orders, parts, labour)",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "55ba3068-dd23-4dd1-bf6e-2652deee571a",
+      "name": "CariventaX.Base",
+      "publisher": "Tomasz Baraniuk",
+      "version": "0.0.1.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
