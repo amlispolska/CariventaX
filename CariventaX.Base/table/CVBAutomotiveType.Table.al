@@ -1,4 +1,4 @@
-table 50102 "CVX Automotive Type"
+table 50102 "CVB Automotive Type"
 {
     Caption = 'Automotive Type', Comment = 'de-DE=Fahrzeugtyp';
     DataClassification = CustomerContent;
@@ -13,7 +13,7 @@ table 50102 "CVX Automotive Type"
         {
             Caption = 'Name', Comment = 'de-DE=Name';
         }
-        field(11; "Driver License Class Required"; Enum "CVX Driver License Class")
+        field(11; "Driver License Class Required"; Enum "CVB Driver License Class")
         {
             Caption = 'Driver License Class Required', Comment = 'de-DE=Erforderliche Führerscheinklasse';
         }

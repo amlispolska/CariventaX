@@ -1,4 +1,4 @@
-table 50100 "CVX CariventaX Setup"
+table 50100 "CVB CariventaX Setup"
 {
     Caption = 'CariventaX Setup', Comment = 'de-DE=CariventaX Einrichtung';
     DataClassification = CustomerContent;
@@ -9,7 +9,7 @@ table 50100 "CVX CariventaX Setup"
         {
             Caption = 'PK', Comment = 'de-DE=PK';
         }
-        field(10; "System Type"; Enum "CVX System Type")
+        field(10; "System Type"; Enum "CVB System Type")
         {
             Caption = 'System Type', Comment = 'de-DE=Systemtyp';
         }

@@ -1,18 +1,18 @@
-pageextension 50100 "CVX Item Card" extends "Item Card"
+pageextension 50100 "CVB Item Card" extends "Item Card"
 {
     layout
     {
         addlast(Item)
         {
-            group("CVX Automotive Details")
+            group("CVB Automotive Details")
             {
                 Caption = 'Automotive Details', Comment = 'de-DE=Automobildetails';
-                field("CVX Producer"; Rec."CVX Producer")
+                field("CVB Producer"; Rec."CVB Producer")
                 {
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the Producer field.', Comment = 'de-DE=Gibt den Wert des Hersteller-Feldes an';
                 }
-                field("CVX Automotive Type"; Rec."CVX Automotive Type")
+                field("CVB Automotive Type"; Rec."CVB Automotive Type")
                 {
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the Automotive Type field.', Comment = 'de-DE=Gibt den Wert des Fahrzeugtyp-Feldes an';

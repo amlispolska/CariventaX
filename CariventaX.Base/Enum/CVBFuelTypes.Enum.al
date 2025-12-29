@@ -1,4 +1,4 @@
-enum 50102 "CVX Fuel Types"
+enum 50102 "CVB Fuel Types"
 {
     Extensible = true;
 

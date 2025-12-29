@@ -1,4 +1,4 @@
-enum 50101 "CVX Driver License Class"
+enum 50103 "CVB Driver License Class"
 {
     Extensible = true;
 
