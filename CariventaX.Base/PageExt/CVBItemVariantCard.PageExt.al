@@ -28,16 +28,6 @@ pageextension 50101 "CVB Item Variant Card" extends "Item Variant Card"
                     ApplicationArea = All;
                     ToolTip = 'Specifies the value of the Build in Country field.', Comment = 'de-DE=Gibt den Wert des Hergestellt in Land-Feldes an';
                 }
-                field("CVB Amount of Past Owners"; Rec."CVB Amount of Past Owners")
-                {
-                    ApplicationArea = All;
-                    ToolTip = 'Specifies the value of the Amount of Past Owners field.', Comment = 'de-DE=Gibt den Wert des Anzahl der Vorbesitzer-Feldes an';
-                }
-                field("CVB Present Owner"; Rec."CVB Present Owner")
-                {
-                    ApplicationArea = All;
-                    ToolTip = 'Specifies the value of the Present Owner field.', Comment = 'de-DE=Gibt den Wert des Aktueller Besitzer-Feldes an';
-                }
                 field("CVB Current Kilometers"; Rec."CVB Current Kilometers")
                 {
                     ApplicationArea = All;

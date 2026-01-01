@@ -1,10 +1,10 @@
 {
-  "id": "e2a8d2d1-3b6f-4c9f-9d4b-1f5a9b2c8a11",
-  "name": "CariventaX.Sales",
+  "id": "a3d9f2b1-8c4e-4f7a-9b2d-1e6f3a2b4c5d",
+  "name": "CariventaX.Pictures",
   "publisher": "Tomasz Baraniuk",
   "version": "0.0.1.0",
-  "brief": "Sales module for CariventaX",
-  "description": "Sales-specific objects (orders, customers, sales pages)",
+  "brief": "Pictures module for CariventaX",
+  "description": "Picture management (vehicle images)",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -23,8 +23,8 @@
   "application": "27.0.0.0",
   "idRanges": [
     {
-      "from": 50200,
-      "to": 50249
+      "from": 50350,
+      "to": 50399
     }
   ],
   "resourceExposurePolicy": {
